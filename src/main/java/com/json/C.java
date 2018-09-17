@@ -18,7 +18,7 @@ public class C {
     }
 
     public void fb2(){
-        System.out.println("k1");
+        System.out.println("k1.2");
         System.out.println("k2");
         System.out.println("k3");
     }
