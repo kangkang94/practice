@@ -22,6 +22,7 @@ public class C {
         System.out.println("k1.2");
         System.out.println("k2");
         System.out.println("k3");
+        System.out.println("康康");
     }
 
 }
