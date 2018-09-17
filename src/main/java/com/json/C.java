@@ -19,7 +19,7 @@ public class C {
 
     public void fb2(){
         System.out.println("k1.2");
-        System.out.println("k2");
+        System.out.println("k2.2");
         System.out.println("k3");
         System.out.println("在dev.0.0.1分支下");
     }
