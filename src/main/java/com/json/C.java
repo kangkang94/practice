@@ -18,6 +18,14 @@ public class C {
         System.out.println("k3");
         System.out.println("k3");
         System.out.println("k3");
+        System.out.println("k3");
+        System.out.println("k3");
+        System.out.println("k3");
+
+
+
+
+
     }
 
     public void fb2(){
