@@ -9,6 +9,7 @@ public class C {
         System.out.println("k1");
         System.out.println("k2");
         System.out.println("k3");
+        System.out.println("dev.0.0.2");
     }
 
     public void fb1(){
