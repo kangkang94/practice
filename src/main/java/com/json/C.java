@@ -15,6 +15,7 @@ public class C {
         System.out.println("k1.1");
         System.out.println("k2");
         System.out.println("k3");
+        System.out.println("dev.0.0.1");
     }
 
     public void fb2(){
