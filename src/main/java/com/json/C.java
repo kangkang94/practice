@@ -12,7 +12,7 @@ public class C {
     }
 
     public void fb1(){
-        System.out.println("k1");
+        System.out.println("k1.1");
         System.out.println("k2");
         System.out.println("k3");
     }
