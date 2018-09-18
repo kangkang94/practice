@@ -23,6 +23,7 @@ public class C {
         System.out.println("k2");
         System.out.println("k3");
         System.out.println("康康");
+        System.out.println("开发者为 Bill_dev");
     }
 
 }
